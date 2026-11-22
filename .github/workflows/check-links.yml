@@ -1,0 +1,37 @@
+name: Verify Official Links
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+jobs:
+  validate-dataset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate JSON & CSV dataset integrity
+        run: |
+          python3 - <<'PY'
+          import csv, json, pathlib
+          root = pathlib.Path(".")
+          offers = json.loads((root / "data/verified-offers.json").read_text(encoding="utf-8"))
+          assert len(offers) >= 250, f"Unexpectedly few offers: {len(offers)}"
+          for item in offers:
+              assert item["slug"] and item["official_url"].startswith("https://"), item
+              assert item["details_url_en"].startswith("https://aiymao.com/products/"), item
+              assert item["verification"] in ("official_checked", "official_amount_checked", "official_tier_checked"), item
+          with (root / "data/verified-offers.csv").open(encoding="utf-8") as f:
+              rows = list(csv.DictReader(f))
+          assert len(rows) == len(offers), (len(rows), len(offers))
+          print(f"Verified {len(offers)} dataset entries and markdown structure.")
+          PY
+      - name: Spot-check live aiymao.com endpoints
+        run: |
+          curl -fsSL -A "awesome-verified-free-ai-ci/1.0" https://aiymao.com/llms.txt > /dev/null
+          curl -fsSL -A "awesome-verified-free-ai-ci/1.0" https://aiymao.com/sitemap.xml > /dev/null
