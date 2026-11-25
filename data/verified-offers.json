@@ -2179,6 +2179,32 @@
     "has_setup_steps": false
   },
   {
+    "slug": "langfuse-hobby-plan",
+    "name": "Langfuse",
+    "name_zh": "Langfuse",
+    "provider": "Langfuse",
+    "section": "llm_api",
+    "plan_type": "permanent_free_tier",
+    "use_cases": [
+      "coding",
+      "api",
+      "research"
+    ],
+    "audiences": [],
+    "benefit_en": "Free LLM observability and tracing with 50k units per month; no credit card required.",
+    "benefit_zh": "每月 50k units 的免费 LLM 可观测性与追踪额度，无需信用卡。",
+    "card_required": "no",
+    "payment_required": "no",
+    "reset_bucket": "none",
+    "verification": "official_checked",
+    "checked_at": "2026-11-26",
+    "official_url": "https://langfuse.com/pricing",
+    "details_url_en": "https://aiymao.com/products/langfuse-hobby-plan/",
+    "details_url_zh": "https://aiymao.com/zh/products/langfuse-hobby-plan/",
+    "models_count": 0,
+    "has_setup_steps": false
+  },
+  {
     "slug": "langsmith-for-startups",
     "name": "LangSmith for Startups",
     "name_zh": "LangSmith for Startups",
@@ -4160,32 +4186,6 @@
     "official_url": "https://www.workbuddy.ai/pricing/",
     "details_url_en": "https://aiymao.com/products/workbuddy-free-plan/",
     "details_url_zh": "https://aiymao.com/zh/products/workbuddy-free-plan/",
-    "models_count": 0,
-    "has_setup_steps": false
-  },
-  {
-    "slug": "wpos-black-friday-2026",
-    "name": "WPOS Black Friday",
-    "name_zh": "WPOS 黑五活动",
-    "provider": "WPOS",
-    "section": "coding",
-    "plan_type": "free_credits",
-    "use_cases": [
-      "coding"
-    ],
-    "audiences": [
-      "developers"
-    ],
-    "benefit_en": "New WPOS accounts get 15,000 credits during Black Friday with no card required. Paid upgrades and credit packs have separate offers.",
-    "benefit_zh": "活动期间新建 WPOS 账号可获 15,000 积分，无需绑卡。付费升级和积分包另有优惠。",
-    "card_required": "no",
-    "payment_required": "no",
-    "reset_bucket": "one_time",
-    "verification": "official_checked",
-    "checked_at": "2026-11-22",
-    "official_url": "https://wpos.ai/black-friday/",
-    "details_url_en": "https://aiymao.com/products/wpos-black-friday-2026/",
-    "details_url_zh": "https://aiymao.com/zh/products/wpos-black-friday-2026/",
     "models_count": 0,
     "has_setup_steps": false
   },

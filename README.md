@@ -2,7 +2,7 @@
 
 > **English** | **[简体中文 (README_zh.md)](./README_zh.md)** · Live searchable directory & filter engine: **[aiymao.com](https://aiymao.com/)** · Agent-readable index: **[llms.txt](https://aiymao.com/llms.txt)**
 
-A strictly verified, continuously audited catalog of **324 active free AI plans, LLM API tiers, coding assistants, student developer packs, and startup credit programs**—plus a **[Graveyard of 31 retired/false-free offers](./docs/expired-graveyard.md)** so developers stop wasting time on dead trials.
+A strictly verified, continuously audited catalog of **324 active free AI plans, LLM API tiers, coding assistants, student developer packs, and startup credit programs**—plus a **[Graveyard of 32 retired/false-free offers](./docs/expired-graveyard.md)** so developers stop wasting time on dead trials.
 
 Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promos, and non-AI tools, every single entry in this repository is checked directly against its provider's official pricing, documentation, or program page:
 
@@ -25,14 +25,14 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 
 ## Contents
 
-- [LLM & Multimodal Inference APIs](#llm-api) (62)
-- [AI Coding IDEs, CLI Agents & Cloud Sandboxes](#coding) (47)
+- [LLM & Multimodal Inference APIs](#llm-api) (63)
+- [AI Coding IDEs, CLI Agents & Cloud Sandboxes](#coding) (46)
 - [AI Search, Web Scraping, Vector DBs & Evals](#infra) (22)
 - [AI Image, Video & Creative Tools](#creative) (42)
 - [Voice, Speech (STT/TTS) & Audio AI](#voice) (23)
 - [Student & Academic Free AI / Developer Packs](#student) (40)
 - [Startup AI & Cloud Credit Programs](#startup) (88)
-- [Expired & Discontinued Graveyard](./docs/expired-graveyard.md) (31)
+- [Expired & Discontinued Graveyard](./docs/expired-graveyard.md) (32)
 - [Contributing & Verification Rules](./CONTRIBUTING.md)
 
 ---
@@ -55,6 +55,7 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 | **[IBM](https://www.ibm.com/products/watsonx-ai/pricing)** | IBM watsonx.ai Free/Lite plan includes up to 300,000 foundation-model tokens and 20 Compute Usage Hours… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/ibm-watsonx-ai-lite-plan/) |
 | **[iFlytek Spark MaaS](https://maas.xfyun.cn/overview)** | iFlytek Spark MaaS official portal offers developers 1 billion free tokens on Spark-X2.6 with zero thres… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/xfyun-maas-free-tokens/) |
 | **[Inception](https://docs.inceptionlabs.ai/get-started)** | Inception grants new accounts 100 million free tokens with no payment details required. Note: Inception… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/inception-100m-free-tokens-mercury-2/) |
+| **[Langfuse](https://langfuse.com/pricing)** | Free LLM observability and tracing with 50k units per month; no credit card required. | No | Terms checked (`2026-11-26`) | [Details](https://aiymao.com/products/langfuse-hobby-plan/) |
 | **[MegaNova AI](https://docs.meganova.ai/free-model-quota.md)** | Tier 1 no-card signup grants 50 requests/day on 11 models (550 free requests/day total), resetting daily… | No | Terms checked (`2026-11-21`) | [Details](https://aiymao.com/products/meganova-ai-free-tier/) |
 | **[Mireye Free Tier](https://mireye.com/pricing)** | Mireye Free tier ($0.00/month pay-as-you-go, no subscription) includes a one-time $10.00 starter credit… | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/mireye-free-tier/) |
 | **[Mixedbread Free Starter Credits](https://www.mixedbread.com/pricing)** | Free credits: $5 · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/mixedbread-free-starter-credits/) |
@@ -127,7 +128,6 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 | **[Turso](https://turso.tech/pricing)** | Turso Free ($0/mo, no credit card required) includes 100 databases, 5 GB storage, 500M monthly rows read… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/turso-free-plan/) |
 | **[Upstash Vector](https://upstash.com/pricing/vector)** | Upstash Vector Free includes 10,000 queries and 10,000 updates per day, up to 1,536 dimensions and 1 GB… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/upstash-vector-free-tier/) |
 | **[WorkBuddy](https://www.workbuddy.ai/pricing/)** | WorkBuddy grants 250 welcome credits on signup (14-day expiry) plus Free ($0/mo) with 100 monthly credit… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/workbuddy-free-plan/) |
-| **[WPOS Black Friday](https://wpos.ai/black-friday/)** | New WPOS accounts get 15,000 credits during Black Friday with no card required. Paid upgrades and credit… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/wpos-black-friday-2026/) |
 | **[Zilliz Cloud Free Cluster](https://zilliz.com/pricing)** | Free tier: 5 GB · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/zilliz-cloud-free-cluster/) |
 | **[ChatGPT Free Plan](https://chatgpt.com/)** | Free tier: official tier confirmed (coding & developer tools) · no card, Nov 2026 | No | Tier confirmed (`2026-11-15`) | [Details](https://aiymao.com/products/chatgpt-free/) |
 | **[Cloudflare Vectorize Free Tier](https://developers.cloudflare.com/vectorize/platform/pricing/)** | Free tier: official tier confirmed (coding & developer tools) · no card, Nov 2026 | No | Tier confirmed (`2026-11-15`) | [Details](https://aiymao.com/products/cloudflare-vectorize-free-tier/) |

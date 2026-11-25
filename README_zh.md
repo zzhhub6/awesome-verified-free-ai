@@ -2,7 +2,7 @@
 
 > **[English (README.md)](./README.md)** | **简体中文** · 在线多维筛选与实时目录：**[aiymao.com/zh/](https://aiymao.com/zh/)**（[全部产品目录](https://aiymao.com/zh/products/) · [条件筛选器](https://aiymao.com/zh/offers/) · [免费 API 额度](https://aiymao.com/zh/api-credits/)）
 
-一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **324 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（31 项）](./docs/expired-graveyard.md)**。
+一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **324 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（32 项）](./docs/expired-graveyard.md)**。
 
 区别于市面上把“7 天绑卡自动扣费试用”、早已下线的历史活动甚至非 AI 软件混为一谈的采集站，本仓库所有条目均直接对照服务商官网原文核验：
 
@@ -25,14 +25,14 @@
 
 ## 目录导航
 
-- [大模型与多模态推理 API](#llm-api) (62)
-- [AI 编程 IDE、CLI 智能体与云端沙盒](#coding) (47)
+- [大模型与多模态推理 API](#llm-api) (63)
+- [AI 编程 IDE、CLI 智能体与云端沙盒](#coding) (46)
 - [AI 搜索、网页抓取、向量数据库与评测设施](#infra) (22)
 - [AI 图像、视频与视觉创作工具](#creative) (42)
 - [AI 语音合成（TTS）、转写（ASR）与音频工具](#voice) (23)
 - [学生与高校教师免费 AI 及开发者权益](#student) (40)
 - [初创企业 AI 与云算力扶持计划](#startup) (88)
-- [已失效 / 改付费避坑墓碑榜](./docs/expired-graveyard.md) (31)
+- [已失效 / 改付费避坑墓碑榜](./docs/expired-graveyard.md) (32)
 
 ---
 
@@ -54,6 +54,7 @@
 | **[IBM](https://www.ibm.com/products/watsonx-ai/pricing)** | IBM watsonx.ai 免费 Free/Lite 方案每月提供最高 300,000 基础模型 Tokens 与 20 计算使用小时（CUH），速率限制为每秒 2 次推理请求… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/ibm-watsonx-ai-lite-plan/) |
 | **[iFlytek Spark MaaS](https://maas.xfyun.cn/overview)** | 讯飞星辰 MaaS 开放平台官网明确推出“Spark-X2.6 赋能开发者，零门槛领取 10 亿 tokens 免费额度”，注册登录即可在模型广场调用体验。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/xfyun-maas-free-tokens/) |
 | **[Inception](https://docs.inceptionlabs.ai/get-started)** | Inception 为新注册开发者提供 1 亿免费 Tokens（免绑卡）调用 Mercury 3 等模型。注意官方已宣布 Mercury API 将于 2026 年 12 月… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/inception-100m-free-tokens-mercury-2/) |
+| **[Langfuse](https://langfuse.com/pricing)** | 每月 50k units 的免费 LLM 可观测性与追踪额度，无需信用卡。 | 免绑卡 | 条款已核验 (`2026-11-26`) | [详情与步骤](https://aiymao.com/zh/products/langfuse-hobby-plan/) |
 | **[MegaNova AI](https://docs.meganova.ai/free-model-quota.md)** | Tier 1 免信用卡注册，11 个免费模型各享 50 次/日配额（合计每日 550 次），UTC 00:00 自动重置。 | 免绑卡 | 条款已核验 (`2026-11-21`) | [详情与步骤](https://aiymao.com/zh/products/meganova-ai-free-tier/) |
 | **[Mireye Free Tier](https://mireye.com/pricing)** | 免费套餐按用量计费，月费为 0 美元，一次性赠送 10 美元额度且不过期。 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/mireye-free-tier/) |
 | **[Mixedbread Free Starter Credits](https://www.mixedbread.com/pricing)** | 赠送额度 · 5 美元 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/mixedbread-free-starter-credits/) |
@@ -126,7 +127,6 @@
 | **[Turso](https://turso.tech/pricing)** | Turso Free 方案（$0/月）无需信用卡，包含 100 个 libSQL 数据库、5 GB 存储、每月 5 亿行读取、1,000 万行写入、3 GB 月同步及 1 天时间… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/turso-free-plan/) |
 | **[Upstash Vector](https://upstash.com/pricing/vector)** | Upstash Vector 免费档每天支持 10,000 次查询和 10,000 次更新，最多 1,536 维和 1 GB 数据或元数据。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/upstash-vector-free-tier/) |
 | **[WorkBuddy](https://www.workbuddy.ai/pricing/)** | WorkBuddy 新用户注册赠 250 欢迎积分（14 天有效），Free 方案（$0/月）包含每月 100 基础积分、限时每日 30 积分活跃奖励、每月 5,000 次代码补… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/workbuddy-free-plan/) |
-| **[WPOS 黑五活动](https://wpos.ai/black-friday/)** | 活动期间新建 WPOS 账号可获 15,000 积分，无需绑卡。付费升级和积分包另有优惠。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/wpos-black-friday-2026/) |
 | **[Zilliz Cloud Free Cluster](https://zilliz.com/pricing)** | 免费套餐 · 5 GB | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/zilliz-cloud-free-cluster/) |
 | **[ChatGPT Free Plan](https://chatgpt.com/)** | 免费套餐（已核验官方条款） | 免绑卡 | 套餐已确认 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/chatgpt-free/) |
 | **[Cloudflare Vectorize Free Tier](https://developers.cloudflare.com/vectorize/platform/pricing/)** | 免费套餐（已核验官方条款） | 免绑卡 | 套餐已确认 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/cloudflare-vectorize-free-tier/) |

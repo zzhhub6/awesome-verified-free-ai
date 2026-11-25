@@ -1,4 +1,4 @@
-# Free AI & LLM APIs Without a Credit Card (60 Verified)
+# Free AI & LLM APIs Without a Credit Card (61 Verified)
 
 > Back to **[Main README](../README.md)** · **[简体中文](../README_zh.md)** · Full interactive guide: **[Free AI API Credits & Tiers Without a Credit Card (aiymao.com)](https://aiymao.com/guides/free-ai-api-credits-no-card/)** ([中文指南](https://aiymao.com/zh/guides/free-ai-api-credits-no-card/))
 
@@ -32,6 +32,7 @@ Every API provider listed below has been checked against its official documentat
 | **[iFlytek Spark MaaS](https://maas.xfyun.cn/overview)** | iFlytek Spark MaaS official portal offers developers 1 billion free tokens on Spark-X2.6 with zero thres… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/xfyun-maas-free-tokens/) |
 | **[Inception](https://docs.inceptionlabs.ai/get-started)** | Inception grants new accounts 100 million free tokens with no payment details required. Note: Inception… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/inception-100m-free-tokens-mercury-2/) |
 | **[Jina AI](https://jina.ai/embeddings/#rate-limit)** | New API keys receive 10 Million free tokens (CC-BY-NC non-commercial) with 100–500 RPM limits across Rea… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/jina-ai-free-api-tokens/) |
+| **[Langfuse](https://langfuse.com/pricing)** | Free LLM observability and tracing with 50k units per month; no credit card required. | No | Terms checked (`2026-11-26`) | [Details](https://aiymao.com/products/langfuse-hobby-plan/) |
 | **[MegaNova AI](https://docs.meganova.ai/free-model-quota.md)** | Tier 1 no-card signup grants 50 requests/day on 11 models (550 free requests/day total), resetting daily… | No | Terms checked (`2026-11-21`) | [Details](https://aiymao.com/products/meganova-ai-free-tier/) |
 | **[Mireye Free Tier](https://mireye.com/pricing)** | Mireye Free tier ($0.00/month pay-as-you-go, no subscription) includes a one-time $10.00 starter credit… | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/mireye-free-tier/) |
 | **[Mixedbread Free Starter Credits](https://www.mixedbread.com/pricing)** | Free credits: $5 · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/mixedbread-free-starter-credits/) |
