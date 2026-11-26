@@ -2,13 +2,13 @@
 
 > **[English (README.md)](./README.md)** | **简体中文** · 在线多维筛选与实时目录：**[aiymao.com/zh/](https://aiymao.com/zh/)**（[全部产品目录](https://aiymao.com/zh/products/) · [条件筛选器](https://aiymao.com/zh/offers/) · [免费 API 额度](https://aiymao.com/zh/api-credits/)）
 
-一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **324 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（32 项）](./docs/expired-graveyard.md)**。
+一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **325 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（31 项）](./docs/expired-graveyard.md)**。
 
 区别于市面上把“7 天绑卡自动扣费试用”、早已下线的历史活动甚至非 AI 软件混为一谈的采集站，本仓库所有条目均直接对照服务商官网原文核验：
 
-- **264 项「官方条款已核验」**：官网定价或文档页明确载明具体免费额度、Token 数量或 RPM/RPD 速率上限。
+- **265 项「官方条款已核验」**：官网定价或文档页明确载明具体免费额度、Token 数量或 RPM/RPD 速率上限。
 - **60 项「官方套餐已确认」**：已确认存在官方免费档或学生/创业计划，具体额度由控制台动态分配。
-- **216 项明确免绑卡**：确认注册与开通免费层无需绑定信用卡。
+- **217 项明确免绑卡**：确认注册与开通免费层无需绑定信用卡。
 - **零商业推广排名**：按免卡优先、核验等级与名称排序，无任何付费排位。
 
 ---
@@ -26,13 +26,13 @@
 ## 目录导航
 
 - [大模型与多模态推理 API](#llm-api) (63)
-- [AI 编程 IDE、CLI 智能体与云端沙盒](#coding) (46)
+- [AI 编程 IDE、CLI 智能体与云端沙盒](#coding) (47)
 - [AI 搜索、网页抓取、向量数据库与评测设施](#infra) (22)
 - [AI 图像、视频与视觉创作工具](#creative) (42)
 - [AI 语音合成（TTS）、转写（ASR）与音频工具](#voice) (23)
 - [学生与高校教师免费 AI 及开发者权益](#student) (40)
 - [初创企业 AI 与云算力扶持计划](#startup) (88)
-- [已失效 / 改付费避坑墓碑榜](./docs/expired-graveyard.md) (32)
+- [已失效 / 改付费避坑墓碑榜](./docs/expired-graveyard.md) (31)
 
 ---
 
@@ -127,6 +127,7 @@
 | **[Turso](https://turso.tech/pricing)** | Turso Free 方案（$0/月）无需信用卡，包含 100 个 libSQL 数据库、5 GB 存储、每月 5 亿行读取、1,000 万行写入、3 GB 月同步及 1 天时间… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/turso-free-plan/) |
 | **[Upstash Vector](https://upstash.com/pricing/vector)** | Upstash Vector 免费档每天支持 10,000 次查询和 10,000 次更新，最多 1,536 维和 1 GB 数据或元数据。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/upstash-vector-free-tier/) |
 | **[WorkBuddy](https://www.workbuddy.ai/pricing/)** | WorkBuddy 新用户注册赠 250 欢迎积分（14 天有效），Free 方案（$0/月）包含每月 100 基础积分、限时每日 30 积分活跃奖励、每月 5,000 次代码补… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/workbuddy-free-plan/) |
+| **[WPOS 黑五活动](https://wpos.ai/black-friday/)** | 活动期间新建 WPOS 账号可获 15,000 积分，无需绑卡。付费升级和积分包另有优惠。 | 免绑卡 | 条款已核验 (`2026-11-26`) | [详情与步骤](https://aiymao.com/zh/products/wpos-black-friday-2026/) |
 | **[Zilliz Cloud Free Cluster](https://zilliz.com/pricing)** | 免费套餐 · 5 GB | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/zilliz-cloud-free-cluster/) |
 | **[ChatGPT Free Plan](https://chatgpt.com/)** | 免费套餐（已核验官方条款） | 免绑卡 | 套餐已确认 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/chatgpt-free/) |
 | **[Cloudflare Vectorize Free Tier](https://developers.cloudflare.com/vectorize/platform/pricing/)** | 免费套餐（已核验官方条款） | 免绑卡 | 套餐已确认 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/cloudflare-vectorize-free-tier/) |

@@ -1,4 +1,4 @@
-# Free AI Coding Tools, IDEs, CLI Agents & Cloud Sandboxes (120 Verified)
+# Free AI Coding Tools, IDEs, CLI Agents & Cloud Sandboxes (121 Verified)
 
 > Back to **[Main README](../README.md)** · **[简体中文](../README_zh.md)** · Full comparison guide: **[Free AI Coding Tools, IDEs & Cloud Sandboxes (aiymao.com)](https://aiymao.com/guides/free-ai-coding-tools-ides-guide/)** ([中文指南](https://aiymao.com/zh/guides/free-ai-coding-tools-ides-guide/))
 
@@ -84,6 +84,7 @@ Verified free tiers across AI code editors, VS Code / JetBrains extensions, term
 | **[Vectoree Welcome Credit](https://vectoree.ai/dashboard/login)** | Free credits: $5 · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/vectoree-welcome-credit/) |
 | **[Vercel for Startups](https://vercel.com/startups)** | Startup program: $30,000 · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/vercel-startups/) |
 | **[WorkBuddy](https://www.workbuddy.ai/pricing/)** | WorkBuddy grants 250 welcome credits on signup (14-day expiry) plus Free ($0/mo) with 100 monthly credit… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/workbuddy-free-plan/) |
+| **[WPOS Black Friday](https://wpos.ai/black-friday/)** | New WPOS accounts get 15,000 credits during Black Friday with no card required. Paid upgrades and credit… | No | Terms checked (`2026-11-26`) | [Details](https://aiymao.com/products/wpos-black-friday-2026/) |
 | **[XCrawl Free Credits](https://www.xcrawl.ai/)** | Free credits: 1,000 credits · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/xcrawl-free-credits/) |
 | **[YepAPI](https://www.yepapi.com/)** | YepAPI grants $5 in free signup credits with no credit card required, covering 285 AI models and 184 SEO… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/yepapi-free-credit/) |
 | **[Zed Pro for Students](https://zed.dev/education)** | Zed Pro free for 12 months + $10/mo AI credits for verified students · no card | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/zed-pro-for-students/) |
