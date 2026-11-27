@@ -2,13 +2,13 @@
 
 > **English** | **[简体中文 (README_zh.md)](./README_zh.md)** · Live searchable directory & filter engine: **[aiymao.com](https://aiymao.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_readme_en)** · Agent-readable index: **[llms.txt](https://aiymao.com/llms.txt)**
 
-A strictly verified, continuously audited catalog of **740 active free AI plans, LLM API tiers, coding assistants, student developer packs, and startup credit programs**—plus a **[Graveyard of 31 retired/false-free offers](./docs/expired-graveyard.md)** so developers stop wasting time on dead trials.
+A strictly verified, continuously audited catalog of **744 active free AI plans, LLM API tiers, coding assistants, student developer packs, and startup credit programs**—plus a **[Graveyard of 31 retired/false-free offers](./docs/expired-graveyard.md)** so developers stop wasting time on dead trials.
 
 Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promos, and non-AI tools, every single entry in this repository is checked directly against its provider's official pricing, documentation, or program page:
 
-- **680 Official Terms Checked**: Exact free quota, rate limits, or credit amount verified on the official pricing/docs page.
+- **684 Official Terms Checked**: Exact free quota, rate limits, or credit amount verified on the official pricing/docs page.
 - **60 Official Tier Confirmed**: Official free or student/startup tier verified, where exact token/point caps are dynamic or assigned inside the developer console.
-- **274 No-Credit-Card Offers**: Explicitly verified to require **no payment card** at signup.
+- **278 No-Credit-Card Offers**: Explicitly verified to require **no payment card** at signup.
 - **Zero Affiliate / Paid Placement**: Ordered strictly by card requirement, verification tier, and name.
 
 ---
@@ -28,9 +28,9 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 - [LLM & Multimodal Inference APIs](#llm-api) (122)
 - [AI Coding IDEs, CLI Agents & Cloud Sandboxes](#coding) (103)
 - [AI Search, Web Scraping, Vector DBs & Evals](#infra) (67)
-- [AI Image, Video & Creative Tools](#creative) (145)
-- [Voice, Speech (STT/TTS) & Audio AI](#voice) (65)
-- [Student & Academic Free AI / Developer Packs](#student) (68)
+- [AI Image, Video & Creative Tools](#creative) (147)
+- [Voice, Speech (STT/TTS) & Audio AI](#voice) (66)
+- [Student & Academic Free AI / Developer Packs](#student) (69)
 - [Startup AI & Cloud Credit Programs](#startup) (170)
 - [Expired & Discontinued Graveyard](./docs/expired-graveyard.md) (31)
 - [Contributing & Verification Rules](./CONTRIBUTING.md)
@@ -346,12 +346,14 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 | Product | Verified Free Tier / Allowance | Card Required | Status & Checked | Specs & Setup |
 | :--- | :--- | :---: | :---: | :---: |
 | **[Agnes AI](https://wiki.agnes-ai.com/en/docs/pricing)** | Default accounts get $0 Angel User Trial pricing on Flash text, image, and 720P video models. | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/agnes-ai-free-api/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
+| **[Canva for Nonprofits](https://www.canva.com/canva-for-nonprofits/)** | Free Canva Pro for verified nonprofit organizations, including premium assets and AI tool allowances · n… | No | Terms checked (`2026-11-27`) | [Details](https://aiymao.com/products/canva-for-nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[CharaSync Starter Credits](https://charasync.com/)** | Free credits: 50 credits · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/charasync-starter-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[ClearRemover Free Daily Erases](https://clearremover.com/)** | Free tier: 1 images recurring · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/clearremover-free-daily-erases/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Descript](https://www.descript.com/pricing)** | $0 free tier with 60 minutes (1 hr)/month media processing, 100 one-time AI credits, 25-language auto tr… | No | Terms checked (`2026-11-26`) | [Details](https://aiymao.com/products/descript-free-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Dreamina (CapCut)](https://dreamina.capcut.com/ai-video/free-image-to-video-generator-credits-faq)** | Free users receive 120 credits per day (reset daily) with no credit card required for supported AI image… | No | Terms checked (`2026-11-26`) | [Details](https://aiymao.com/products/dreamina-free-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[fal.ai MiniMax H3 Max Free Runs](https://fal.ai/minimax-h3-max)** | Free tier (video tools) · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/fal-minimax-h3-max-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Google Flow](https://flow.google.com/)** | 50 free Google Flow credits per day for Omni Flash 1.2 and Veo 3.1 Lite video & image creation · no card | No | Terms checked (`2026-11-19`) | [Details](https://aiymao.com/products/google-flow-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
+| **[Google Vids](https://workspace.google.com/products/vids/)** | 60 seconds/month of free AI video generation in Google Vids (up to 15s per clip) for personal Google acc… | No | Terms checked (`2026-11-27`) | [Details](https://aiymao.com/products/google-vids-free-ai-video/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Ideogram](https://docs.ideogram.ai/quick-start-guide)** | Free Ideogram accounts using Google or Apple sign-in receive 30 weekly credits. Quick Start states Micro… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/ideogram-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Image2Img Free Daily Image](https://image2img.net/)** | Free tier: 1 images recurring · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/image2img-free-daily-image/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Krea AI](https://www.krea.ai/pricing)** | $0/month Free plan includes 100 compute units per day with no credit card required. | No | Terms checked (`2026-11-21`) | [Details](https://aiymao.com/products/krea-ai-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
@@ -503,6 +505,7 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 | **[ElevenLabs Free Plan](https://elevenlabs.io/pricing)** | Free tier: 10,000 credits recurring · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/elevenlabs-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Google Gemini API Free Tier](https://aistudio.google.com/docs/pricing)** | Selected Gemini API models include free input and output within usage limits. Gemini 2.5 Pro has been re… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/google-gemini-developer-api-free-tier/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[HeyGen Voice Turbo](https://www.heygen.com/blog/heygen-voice-turbo)** | Limited-time free text-to-speech API, with no credit card required. | No | Terms checked (`2026-11-20`) | [Details](https://aiymao.com/products/heygen-voice-turbo-free-api/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
+| **[MeetCap](https://meetcap.seacen.dev/)** | Free unlimited local meeting recording & transcription on macOS 14.2+ with no account or card required | No | Terms checked (`2026-11-27`) | [Details](https://aiymao.com/products/meetcap-free-macos/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Neume Free Songs](https://neume.io/)** | Free credits: 1 credits · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/neume-free-songs/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[PlayableNotes Free Plan](https://playablenotes.com/pricing)** | Free tier: 100 requests recurring · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/playablenotes-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[PolyAI Dialog-RSN-1](https://poly.ai/pricing)** | New accounts receive $100 in API credit before the cutoff. Voice output is free for the same promotion w… | No | Terms checked (`2026-11-20`) | [Details](https://aiymao.com/products/polyai-dialog-rsn-1-signup-credit/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
@@ -569,6 +572,7 @@ Unlike scraped directories that mix 7-day credit-card trials, expired 2023 promo
 | **[Azure for Students](https://azure.microsoft.com/en-us/free/students)** | $100 Azure student credit for 12 months + always-free services · no card | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/azure-for-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Basecamp](https://basecamp.com/discounts)** | Free Basecamp account for K-12 and university teachers and students strictly for classroom work. | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/basecamp-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[BrowserStack student plan](https://www.browserstack.com/github-students)** | Student program: 12 months · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/browserstack-github-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
+| **[Canva Education](https://www.canva.com/education/)** | Free Canva Education for verified K–12 teachers and students (role-based AI tool permissions) · no card | No | Terms checked (`2026-11-27`) | [Details](https://aiymao.com/products/canva-education-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Clerk student plan](https://clerk.com/github-student-developer-pack)** | Clerk Pro free for verified GitHub Student Pack members ($240/yr value) · no card | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/clerk-student/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[DBeaver Enterprise](https://dbeaver.com/academic-license/)** | Eligible students and educators can apply for a one-year DBeaver Enterprise academic license and verify… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/dbeaver-academic/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Dify for Education](https://dify.ai/education)** | Student program: 12 months · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/dify-education/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |

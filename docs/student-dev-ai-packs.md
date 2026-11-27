@@ -1,4 +1,4 @@
-# Verified Student & Academic Free AI, Cloud & Developer Packs (68 Verified)
+# Verified Student & Academic Free AI, Cloud & Developer Packs (69 Verified)
 
 > Back to **[Main README](../README.md)** · **[简体中文](../README_zh.md)** · Step-by-step verification guide: **[Student Free AI & Developer Tools Guide (aiymao.com)](https://aiymao.com/guides/student-free-ai-developer-tools-guide/)** ([中文指南](https://aiymao.com/zh/guides/student-free-ai-developer-tools-guide/))
 
@@ -12,6 +12,7 @@ Official education programs for college/university students and faculty. Check e
 | **[Azure for Students](https://azure.microsoft.com/en-us/free/students)** | $100 Azure student credit for 12 months + always-free services · no card | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/azure-for-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Basecamp](https://basecamp.com/discounts)** | Free Basecamp account for K-12 and university teachers and students strictly for classroom work. | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/basecamp-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[BrowserStack student plan](https://www.browserstack.com/github-students)** | Student program: 12 months · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/browserstack-github-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
+| **[Canva Education](https://www.canva.com/education/)** | Free Canva Education for verified K–12 teachers and students (role-based AI tool permissions) · no card | No | Terms checked (`2026-11-27`) | [Details](https://aiymao.com/products/canva-education-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Clerk student plan](https://clerk.com/github-student-developer-pack)** | Clerk Pro free for verified GitHub Student Pack members ($240/yr value) · no card | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/clerk-student/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[DBeaver Enterprise](https://dbeaver.com/academic-license/)** | Eligible students and educators can apply for a one-year DBeaver Enterprise academic license and verify… | No | Terms checked (`2026-11-22`) | [Details](https://aiymao.com/products/dbeaver-academic/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |
 | **[Dify for Education](https://dify.ai/education)** | Student program: 12 months · no card, Nov 2026 | No | Terms checked (`2026-11-15`) | [Details](https://aiymao.com/products/dify-education/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_en) |

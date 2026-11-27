@@ -865,6 +865,60 @@
     "has_setup_steps": false
   },
   {
+    "slug": "canva-education-free",
+    "name": "Canva Education",
+    "name_zh": "Canva Education",
+    "provider": "Canva",
+    "section": "student",
+    "plan_type": "student_access",
+    "use_cases": [
+      "image",
+      "video"
+    ],
+    "audiences": [
+      "students"
+    ],
+    "benefit_en": "Free Canva Education for verified K–12 teachers and students (role-based AI tool permissions) · no card",
+    "benefit_zh": "符合条件的 K–12 师生免费使用 Canva 教育版（含课堂模板与 AI 工具，师生 AI 权限有区分）· 免绑卡",
+    "card_required": "no",
+    "payment_required": "no",
+    "reset_bucket": "ongoing",
+    "verification": "official_checked",
+    "checked_at": "2026-11-27",
+    "official_url": "https://www.canva.com/education/",
+    "details_url_en": "https://aiymao.com/products/canva-education-free/",
+    "details_url_zh": "https://aiymao.com/zh/products/canva-education-free/",
+    "models_count": 0,
+    "has_setup_steps": false
+  },
+  {
+    "slug": "canva-for-nonprofits",
+    "name": "Canva for Nonprofits",
+    "name_zh": "Canva for Nonprofits",
+    "provider": "Canva",
+    "section": "creative",
+    "plan_type": "permanent_free_tier",
+    "use_cases": [
+      "image",
+      "video"
+    ],
+    "audiences": [
+      "teams"
+    ],
+    "benefit_en": "Free Canva Pro for verified nonprofit organizations, including premium assets and AI tool allowances · no card",
+    "benefit_zh": "合规非营利组织审核通过后免费获得 Canva Pro 权益，含高级素材与 AI 工具额度 · 免绑卡",
+    "card_required": "no",
+    "payment_required": "no",
+    "reset_bucket": "ongoing",
+    "verification": "official_checked",
+    "checked_at": "2026-11-27",
+    "official_url": "https://www.canva.com/canva-for-nonprofits/",
+    "details_url_en": "https://aiymao.com/products/canva-for-nonprofits/",
+    "details_url_zh": "https://aiymao.com/zh/products/canva-for-nonprofits/",
+    "models_count": 0,
+    "has_setup_steps": false
+  },
+  {
     "slug": "cartesia-free-tier",
     "name": "Cartesia Free Plan",
     "name_zh": "Cartesia Free Plan",
@@ -2191,6 +2245,30 @@
     "has_setup_steps": false
   },
   {
+    "slug": "google-vids-free-ai-video",
+    "name": "Google Vids",
+    "name_zh": "Google Vids",
+    "provider": "Google",
+    "section": "creative",
+    "plan_type": "permanent_free_tier",
+    "use_cases": [
+      "video"
+    ],
+    "audiences": [],
+    "benefit_en": "60 seconds/month of free AI video generation in Google Vids (up to 15s per clip) for personal Google accounts · no card",
+    "benefit_zh": "个人 Google 账号在 Google Vids 每月免费生成 60 秒 AI 视频（单条最长 15 秒）· 免绑卡",
+    "card_required": "no",
+    "payment_required": "no",
+    "reset_bucket": "monthly",
+    "verification": "official_checked",
+    "checked_at": "2026-11-27",
+    "official_url": "https://workspace.google.com/products/vids/",
+    "details_url_en": "https://aiymao.com/products/google-vids-free-ai-video/",
+    "details_url_zh": "https://aiymao.com/zh/products/google-vids-free-ai-video/",
+    "models_count": 1,
+    "has_setup_steps": false
+  },
+  {
     "slug": "groq-free-tier",
     "name": "Groq",
     "name_zh": "Groq",
@@ -3002,6 +3080,30 @@
     "official_url": "https://www.mangatranslate.com/",
     "details_url_en": "https://aiymao.com/products/mangatranslate-free-daily-credits/",
     "details_url_zh": "https://aiymao.com/zh/products/mangatranslate-free-daily-credits/",
+    "models_count": 0,
+    "has_setup_steps": false
+  },
+  {
+    "slug": "meetcap-free-macos",
+    "name": "MeetCap",
+    "name_zh": "MeetCap",
+    "provider": "MeetCap",
+    "section": "voice",
+    "plan_type": "permanent_free_tier",
+    "use_cases": [
+      "voice"
+    ],
+    "audiences": [],
+    "benefit_en": "Free unlimited local meeting recording & transcription on macOS 14.2+ with no account or card required",
+    "benefit_zh": "macOS 14.2+ 免费本地会议录音与转写，不限时、免注册，支持本地模型生成纪要 · 免绑卡",
+    "card_required": "no",
+    "payment_required": "no",
+    "reset_bucket": "ongoing",
+    "verification": "official_checked",
+    "checked_at": "2026-11-27",
+    "official_url": "https://meetcap.seacen.dev/",
+    "details_url_en": "https://aiymao.com/products/meetcap-free-macos/",
+    "details_url_zh": "https://aiymao.com/zh/products/meetcap-free-macos/",
     "models_count": 0,
     "has_setup_steps": false
   },

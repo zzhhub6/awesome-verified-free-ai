@@ -2,13 +2,13 @@
 
 > **[English (README.md)](./README.md)** | **简体中文** · 在线多维筛选与实时目录：**[aiymao.com/zh/](https://aiymao.com/zh/?utm_source=github&utm_medium=referral&utm_campaign=awesome_readme_zh)**（[全部产品目录](https://aiymao.com/zh/products/?utm_source=github&utm_medium=referral&utm_campaign=awesome_readme_zh) · [条件筛选器](https://aiymao.com/zh/offers/?utm_source=github&utm_medium=referral&utm_campaign=awesome_readme_zh) · [免费 API 额度](https://aiymao.com/zh/api-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_readme_zh)）
 
-一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **740 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（31 项）](./docs/expired-graveyard.md)**。
+一份**只收录经官方定价页/开发者文档实测核验**的免费 AI 资源开源清单，当前涵盖 **744 项在架免费大模型 API、AI 编程 IDE、Agent 云沙盒、学生教育包与初创扶持计划**，并附带 **[已失效 / 伪免费避坑墓碑榜（31 项）](./docs/expired-graveyard.md)**。
 
 区别于市面上把“7 天绑卡自动扣费试用”、早已下线的历史活动甚至非 AI 软件混为一谈的采集站，本仓库所有条目均直接对照服务商官网原文核验：
 
-- **680 项「官方条款已核验」**：官网定价或文档页明确载明具体免费额度、Token 数量或 RPM/RPD 速率上限。
+- **684 项「官方条款已核验」**：官网定价或文档页明确载明具体免费额度、Token 数量或 RPM/RPD 速率上限。
 - **60 项「官方套餐已确认」**：已确认存在官方免费档或学生/创业计划，具体额度由控制台动态分配。
-- **274 项明确免绑卡**：确认注册与开通免费层无需绑定信用卡。
+- **278 项明确免绑卡**：确认注册与开通免费层无需绑定信用卡。
 - **零商业推广排名**：按免卡优先、核验等级与名称排序，无任何付费排位。
 
 ---
@@ -28,9 +28,9 @@
 - [大模型与多模态推理 API](#llm-api) (122)
 - [AI 编程 IDE、CLI 智能体与云端沙盒](#coding) (103)
 - [AI 搜索、网页抓取、向量数据库与评测设施](#infra) (67)
-- [AI 图像、视频与视觉创作工具](#creative) (145)
-- [AI 语音合成（TTS）、转写（ASR）与音频工具](#voice) (65)
-- [学生与高校教师免费 AI 及开发者权益](#student) (68)
+- [AI 图像、视频与视觉创作工具](#creative) (147)
+- [AI 语音合成（TTS）、转写（ASR）与音频工具](#voice) (66)
+- [学生与高校教师免费 AI 及开发者权益](#student) (69)
 - [初创企业 AI 与云算力扶持计划](#startup) (170)
 - [已失效 / 改付费避坑墓碑榜](./docs/expired-graveyard.md) (31)
 
@@ -345,12 +345,14 @@
 | 产品（官网直链） | 已核验免费额度 / 方案内容 | 绑卡要求 | 核验状态与日期 | 条款与实操 |
 | :--- | :--- | :---: | :---: | :---: |
 | **[Agnes AI](https://wiki.agnes-ai.com/en/docs/pricing)** | 默认用户可免费试用指定 Flash 文本、全分辨率图像与 720P 视频模型。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/agnes-ai-free-api/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
+| **[Canva for Nonprofits](https://www.canva.com/canva-for-nonprofits/)** | 合规非营利组织审核通过后免费获得 Canva Pro 权益，含高级素材与 AI 工具额度 · 免绑卡 | 免绑卡 | 条款已核验 (`2026-11-27`) | [详情与步骤](https://aiymao.com/zh/products/canva-for-nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[CharaSync Starter Credits](https://charasync.com/)** | 赠送额度 · 50 积分 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/charasync-starter-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[ClearRemover Free Daily Erases](https://clearremover.com/)** | 免费套餐 · 1 张图像（周期发放） | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/clearremover-free-daily-erases/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Descript](https://www.descript.com/pricing)** | $0 永久免费：每月 60 分钟（1 小时）媒体处理时长、100 一次性 AI 积分、25 种语言自动转录、720p 无水印视频导出、5GB 云存储及限额 Underlord 等… | 免绑卡 | 条款已核验 (`2026-11-26`) | [详情与步骤](https://aiymao.com/zh/products/descript-free-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Dreamina (CapCut)](https://dreamina.capcut.com/ai-video/free-image-to-video-generator-credits-faq)** | 免费用户每日获赠 120 积分（按日刷新），无需信用卡，可用于支持的 AI 图像及图生视频（含 Seedance 2.5 等）创作。 | 免绑卡 | 条款已核验 (`2026-11-26`) | [详情与步骤](https://aiymao.com/zh/products/dreamina-free-credits/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[fal.ai MiniMax H3 Max Free Runs](https://fal.ai/minimax-h3-max)** | 免费套餐（已核验官方条款） | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/fal-minimax-h3-max-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Google Flow](https://flow.google.com/)** | 50 free Google Flow credits every day for AI video and image generation with Omni Flash 1… | 免绑卡 | 条款已核验 (`2026-11-19`) | [详情与步骤](https://aiymao.com/zh/products/google-flow-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
+| **[Google Vids](https://workspace.google.com/products/vids/)** | 个人 Google 账号在 Google Vids 每月免费生成 60 秒 AI 视频（单条最长 15 秒）· 免绑卡 | 免绑卡 | 条款已核验 (`2026-11-27`) | [详情与步骤](https://aiymao.com/zh/products/google-vids-free-ai-video/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Ideogram](https://docs.ideogram.ai/quick-start-guide)** | 通过 Google 或 Apple 登录的 Ideogram 免费账号每周可获 30 积分。注意快速入门文档已说明 Microsoft 与邮箱登录不再获赠积分（FAQ 仍有旧文案… | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/ideogram-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Image2Img Free Daily Image](https://image2img.net/)** | 免费套餐 · 1 张图像（周期发放） | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/image2img-free-daily-image/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Krea AI](https://www.krea.ai/pricing)** | $0/月 Free 套餐包含每日 100 compute units，支持 Krea 3 与实时创作基础体验，无需绑卡。 | 免绑卡 | 条款已核验 (`2026-11-21`) | [详情与步骤](https://aiymao.com/zh/products/krea-ai-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
@@ -502,6 +504,7 @@
 | **[ElevenLabs Free Plan](https://elevenlabs.io/pricing)** | 免费套餐 · 10,000 积分（周期发放） | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/elevenlabs-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Google Gemini API 免费档](https://aistudio.google.com/docs/pricing)** | Gemini API 免费档为部分模型提供限额内的免费输入和输出。Gemini 2.5 Pro 已从 AI Studio 的模型选单移除。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/google-gemini-developer-api-free-tier/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[HeyGen Voice Turbo](https://www.heygen.com/blog/heygen-voice-turbo)** | 文字转语音 API 限时免费，官方确认无需绑卡。 | 免绑卡 | 条款已核验 (`2026-11-20`) | [详情与步骤](https://aiymao.com/zh/products/heygen-voice-turbo-free-api/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
+| **[MeetCap](https://meetcap.seacen.dev/)** | macOS 14.2+ 免费本地会议录音与转写，不限时、免注册，支持本地模型生成纪要 · 免绑卡 | 免绑卡 | 条款已核验 (`2026-11-27`) | [详情与步骤](https://aiymao.com/zh/products/meetcap-free-macos/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Neume Free Songs](https://neume.io/)** | 赠送额度 · 1 积分 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/neume-free-songs/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[PlayableNotes Free Plan](https://playablenotes.com/pricing)** | 免费套餐 · 100 次请求（周期发放） | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/playablenotes-free-plan/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[PolyAI Dialog-RSN-1](https://poly.ai/pricing)** | 在截止日前注册的新账号可获 100 美元 API 额度。语音输出同期免收费。 | 免绑卡 | 条款已核验 (`2026-11-20`) | [详情与步骤](https://aiymao.com/zh/products/polyai-dialog-rsn-1-signup-credit/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
@@ -568,6 +571,7 @@
 | **[Azure for Students](https://azure.microsoft.com/en-us/free/students)** | 12 个月内可用的 100 美元学生额度，另有常设免费服务 · 无需绑卡 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/azure-for-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Basecamp](https://basecamp.com/discounts)** | K-12 及大学教师与学生用于课堂教学或学习可申请 1 个免费 Basecamp 账户。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/basecamp-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[BrowserStack student plan](https://www.browserstack.com/github-students)** | 学生计划 · 12 个月 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/browserstack-github-students/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
+| **[Canva Education](https://www.canva.com/education/)** | 符合条件的 K–12 师生免费使用 Canva 教育版（含课堂模板与 AI 工具，师生 AI 权限有区分）· 免绑卡 | 免绑卡 | 条款已核验 (`2026-11-27`) | [详情与步骤](https://aiymao.com/zh/products/canva-education-free/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Clerk student plan](https://clerk.com/github-student-developer-pack)** | 符合 GitHub Student Pack 资格的学生可免费使用 Clerk Pro，价值 240 美元/年 · 无需绑卡 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/clerk-student/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[DBeaver Enterprise](https://dbeaver.com/academic-license/)** | 符合资格的师生可申请一年 DBeaver Enterprise 学术许可。可使用学校邮箱或提交身份文件完成核验。 | 免绑卡 | 条款已核验 (`2026-11-22`) | [详情与步骤](https://aiymao.com/zh/products/dbeaver-academic/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
 | **[Dify for Education](https://dify.ai/education)** | 学生计划 · 12 个月 | 免绑卡 | 条款已核验 (`2026-11-15`) | [详情与步骤](https://aiymao.com/zh/products/dify-education/?utm_source=github&utm_medium=referral&utm_campaign=awesome_table_zh) |
